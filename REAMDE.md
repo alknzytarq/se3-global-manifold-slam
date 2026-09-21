@@ -1,5 +1,5 @@
 # SE3 Global Manifold SLAM for NEOM THE LINE 170km
-![SE3 Comparison for NEOM THE LINE](comparison.png)
+![SE3 Comparison for NEOM THE LINE] (comparison.png)
 Researcher: Dr.Tarig Abdelazim Abdelhalim 
 Mathematician - Sudan | Bahri Uneversty 
 ORCID: 0009-0001-1649-9962
