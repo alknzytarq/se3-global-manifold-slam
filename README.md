@@ -1,5 +1,5 @@
  SE3 Global Manifold SLAM for Linear Cities
-Researcher: Dr. Tarig abdelazim Abdelhalim
+Researcher: Dr.Tarig abdelazim Abdelhalim
 Affiliation: Department of Mathematics, Faculty of Computer Sciences and Mahematics 
 *University of  Bahri , hatruom,Sudan
  Scientific Publications
