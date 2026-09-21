@@ -1,0 +1,4 @@
+NEOM THE LINE - Global Cauchy - Dr Tarig
+print("Local SLAM drift: 3.4 km at 170km")
+print("Global SE3 drift: 1.3 km at 170km")
+print("Improvement 60 percent - KAUST VCC")
