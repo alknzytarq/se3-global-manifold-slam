@@ -1,4 +1,5 @@
 SE3 Global Manifold SLAM for Linear Cities Researcher: Dr.Tarig abdelazim Abdelhalim Affiliation: Department of Mathematics, Faculty of Computer Sciences and Mahematics *University of Bahri , hatruom,Sudan Scientific Publications Paper 1: The Global Formulation of the Cauchy problems
+
 Original contribution to global analysis and manifold theory
 Journal of Mathematics Research, Vol. 8, No. 3, June 2016
 Canadian Center of Science and Education
